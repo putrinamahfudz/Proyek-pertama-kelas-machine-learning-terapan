@@ -80,14 +80,14 @@ Berikut adalah tahapan yang dilakukan dalam proses data preparation:
 Setelah melakukan data preparation, langkah selanjutnya yang dilakukan adalah membuat model machine learning. Pada proyek ini akan dibuat 2 model yaitu Random Forest dan KKN.
 
 - Random Forest. dalam mengimplementasikan algoritma ini, saya menggunakan method RandomForestClassifier dari sklearn.ensemble dengan argumen n_estimators=30 dan max_features=3. dan dihasilkan akurasi sebagai berikut :
-https://github.com/putrinamahfudz/Proyek-pertama-kelas-machine-learning-terapan/blob/b435151806551d20ce9969b598ef512598e485b8/akurasi_rf.PNG
-
-Kelebihan dari algoritma yang ini adalah dapat memperkiraan variabel apa yang penting dalam klasifikasi, sedangkan kekurangan dari algoritma ini yaitu memiliki kompleksitas yang tinggi.
+https://github.com/putrinamahfudz/Proyek-pertama-kelas-machine-learning-terapan/blob/b435151806551d20ce9969b598ef512598e485b8/akurasi_rf.PNG 
+  
+  Kelebihan dari algoritma yang ini adalah dapat memperkiraan variabel apa yang penting dalam klasifikasi, sedangkan kekurangan dari algoritma ini yaitu memiliki     kompleksitas yang tinggi.
 
 - KKN, dalam mengimplementasikan algoritma KKN, saya menggunakan method KNeighborsClassifier dari sklearn.neighbors dengan argumen n_neighbors=2. dan dihasilkan akurasi sebagai berikut :
 https://github.com/putrinamahfudz/Proyek-pertama-kelas-machine-learning-terapan/blob/b435151806551d20ce9969b598ef512598e485b8/akurasi_kkn.PNG
-
-Kelebihan dari algoritma yang ini adalah cukup efektif terhadap data yang besar, sedangkan kekurangan dari algoritma ini yaitu perlu menentukan nilai parameter K terlebih dahulu.
+  
+  Kelebihan dari algoritma yang ini adalah cukup efektif terhadap data yang besar, sedangkan kekurangan dari algoritma ini yaitu perlu menentukan nilai parameter K terlebih dahulu.
 
 ## Evaluation
 Setelah membangun dua model machine learning, maka dapat dibandingkan akurasi prediksinya untuk mendapatkan model dengan kinerja yang terbaik.
