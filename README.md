@@ -4,7 +4,8 @@
 
 Domain untuk proyek machine learning ini adalah bidang kesehatan. Proyek yang dibangun adalah *sistem prediksi diagnosis stroke*.
 
-**Latar belakang**
+## **Latar Belakang**
+
 Stroke adalah kondisi ketika pasokan darah ke otak terganggu karena penyumbatan (stroke iskemik) atau pecahnya pembuluh darah (stroke hemoragik). Kondisi ini menyebabkan area tertentu pada otak tidak mendapat suplai oksigen dan nutrisi sehingga terjadi kematian sel-sel otak. Tanpa suplai oksigen dan nutrisi, sel-sel pada bagian otak yang terdampak bisa mati hanya dalam hitungan menit. Akibatnya, bagian tubuh yang dikendalikan oleh area otak tersebut tidak bisa berfungsi dengan baik. (https://www.alodokter.com/stroke)
 
 Berdasarkan riset kesehatan dasar yang dilakukan oleh Kementerian Kesehatan (Kemenkes) tahun 2013, prevalensi stroke dengan usia di atas 15 tahun sebanyak 7 orang per 1000 penduduk. Dan pada tahun 2018 ini bukan turun, malah meningkat menjadi 10,9 per 1000 penduduk. (https://www.pilar.id/angka-penderita-stroke-di-indonesia-terus-alami-kenaikan)
